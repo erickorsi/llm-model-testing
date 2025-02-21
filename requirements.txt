@@ -1,1 +1,5 @@
+# deepsearch
 deepsearch-toolkit
+# deepseek
+tensorflow
+transformers
