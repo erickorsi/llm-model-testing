@@ -1,5 +1,7 @@
 # deepsearch
 deepsearch-toolkit
 # deepseek
-tensorflow
+accelerate
+torch
 transformers
+safetensors
