@@ -5,3 +5,4 @@ accelerate
 torch
 transformers
 safetensors
+sglang[all]>=0.4.3 --find-links https://flashinfer.ai/whl/cu124/torch2.5/flashinfer-python
